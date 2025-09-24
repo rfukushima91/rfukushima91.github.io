@@ -9,14 +9,32 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
+  # - block: markdown
+  #   content:
+  #     title: 'Projects'
+  #     subtitle: ''
+  #     text: |-
+  #       Coming soon ...
+  #   design:
+  #     columns: '1'
+
+  - block: collection
+    id: reserch
     content:
-      title: 'Projects'
-      subtitle: ''
-      text: |-
-        Coming soon ...
+      title: Research
+      filters:
+        folders:
+          - research
+        featured_only: false
     design:
-      columns: '1'
+      view: article-grid
+      show_date: false
+      show_read_time: false
+      show_read_more: true
+      columns: 2
+      spacing:
+        padding: ['20px', '0', '10px', '0']  
+
   # - block: collection
   #   content:
   #     title: Projects

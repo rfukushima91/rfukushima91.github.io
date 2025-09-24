@@ -25,7 +25,7 @@ role: Ph.D. stundent
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Stanford University, Geophysics Depatment
+  - name: Stanford University, Geophysics Department
     # url: https://ai.meta.com/
 
 # Social network links
@@ -48,59 +48,49 @@ profiles:
 interests:
   - Earthquake source physics
   - Earthquake simulation
-  - Friction
+  - Fault Friction
   - Dynamic fracture mechanics
   - Crustal deformation
   - Scientific machine learning
   - Inverse problems for PDE
 
-# education:
-#   - area: PhD Computer Science (AI Focus)
-#     institution: Stanford University
-#     date_start: 2015-09-01
-#     date_end: 2019-06-30
-#     summary: |
-#       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-#     button:
-#       text: 'Read Thesis'
-#       url: 'https://example.com/thesis.pdf'
-#   - area: MS Computer Science
-#     institution: Carnegie Mellon University
-#     date_start: 2013-09-01
-#     date_end: 2015-05-31
-#     summary: |
-#       GPA: 4.0/4.0
+education:
+  - area: PhD Geophysics
+    institution: Stanford University
+    date_start: 2024-09-01
+    date_end: ''
+    summary: |
+      Supervised by Prof. [Eric Dunham](https://pangea.stanford.edu/~edunham/)
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+  - area: BS Geophysics
+    institution: Kyoto University
+    date_start: 2020-04-01
+    date_end: 2024-03-31
+    summary: |
+      Supervised by Prof. [Makiko Ohtani](https://sites.google.com/view/mohtani/profile?authuser=0)
 
-#       Specialized in machine learning and robotics.
-#   - area: BS Computer Science
-#     institution: MIT
-#     date_start: 2009-09-01
-#     date_end: 2013-05-31
-#     summary: |
-#       GPA: 3.9/4.0
+work:
+  - position: Part-time Researcher
+    company_name: Tohoku University
+    # company_url: 'https://ai.meta.com/'
+    company_logo: ''
+    date_start: 2024-04-01
+    date_end: 2024-07-31
+    summary: |2-
+      Worked on PINN project with Prof. Masayuki Kano
+  - position: Research Internship
+    company_name: California Institute of Technology
+    # company_url: 'https://openai.com/'
+    company_logo: ''
+    date_start: 2023-06-21
+    date_end: 2023-08-26
+    summary: |
+      Summer Internship with [Jean-Philippe Avouac](https://web.gps.caltech.edu/~avouac/)
 
-#       Minored in Mathematics. President of AI Club.
-
-# work:
-#   - position: Senior AI Research Scientist
-#     company_name: Meta AI
-#     company_url: 'https://ai.meta.com/'
-#     company_logo: ''
-#     date_start: 2020-01-01
-#     date_end: ''
-#     summary: |2-
-#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-#   - position: AI Research Intern
-#     company_name: OpenAI
-#     company_url: 'https://openai.com/'
-#     company_logo: ''
-#     date_start: 2019-06-01
-#     date_end: 2019-12-31
-#     summary: |
-#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-# # Skills
-# # Add your own SVG icons to `assets/media/icons/`
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 # skills:
 #   - name: Technical Skills
 #     items:
@@ -139,39 +129,51 @@ interests:
 #   - name: Spanish
 #     percent: 50
 
-# # Awards.
-# #   Add/remove as many awards below as you like.
-# #   Only `title`, `awarder`, and `date` are required.
-# #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Best Paper Award
-#     url: https://neurips.cc/
-#     date: '2022-12-01'
-#     awarder: NeurIPS
-#     icon: hero/trophy
-#     summary: |
-#       Awarded for groundbreaking work on efficient training of large models.
-#   - title: AI Innovation Grant
-#     url: https://www.nsf.gov/
-#     date: '2021-06-15'
-#     awarder: National Science Foundation
-#     icon: hero/currency-dollar
-#     summary: |
-#       $500,000 grant for research in ethical AI development.
-#   - title: Outstanding PhD Thesis
-#     url: https://www.stanford.edu/
-#     date: '2019-06-30'
-#     awarder: Stanford University
-#     icon: hero/academic-cap
-#     summary: |
-#       Recognized for contributions to scaling laws in deep learning.
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Outstanding Student Presentation Award
+    # url: https://www.jpgu.org/en/ospa/2025meeting/
+    date: '2025-05-31'
+    awarder: JpGU
+    # icon: hero/trophy
+    summary: |
+      Awarded for top 10% stundent presentor at JpGU 2025
+  - title: Seto Prize
+    # url: https://www.nsf.gov/
+    date: '2023-12-01'
+    awarder: Geodetic Society of Japan
+    # icon: hero/currency-dollar
+    summary: |
+      Awarded to young researchers in the Geodetic Society of Japan and provides financial support for the publication of papers
+  - title: Outstanding Student Presentation Award
+    # url: https://www.stanford.edu/
+    date: '2023-11-01'
+    awarder: Sesmological Society of Japan
+    # icon: hero/academic-cap
+    summary: |
+      Awarded for top 10% student presentor
+  - title: Stanford Graduate Fellowship in Science and Engineering
+    # url: https://www.stanford.edu/
+    date: '2024-09-01'
+    awarder: Stanford University
+    # icon: hero/academic-cap
+    summary: |
+      Fellowship for science and engineering Ph.D. student at Stanford
+  - title: The Summer Undergraduate Research Fellowship
+    # url: https://www.stanford.edu/
+    date: '2023-06-01'
+    awarder: California Institute of Technology
+    # icon: hero/academic-cap
+    summary: |
+      Fellowship for a summer research internship at Caltech
 ---
 
 
-I’m a Ph.D. student in Geophysics at Stanford University. I received my B.S. in Geophysics (2024) from Kyoto University, Japan.
+I’m a second-year Ph.D. student in Geophysics at Stanford University. I received my B.S. in Geophysics (2024) from Kyoto University, Japan. My current interests include earthquake simulation, dynamic fracture mechanics, rock physics, crustal deformation, scientific machine learning, and inverse problems for partial differential equations. During my undergrad, I developed physics-informed machine learning techniques to estimate fault frictional properties from geodetic observation data with Prof. Masayuki Kano and Prof. Makiko Ohtani. I am currently working on the development of adjoint methods for dynamic fracture mechanics and earthquake rupture simulation with Prof. Eric Dunham at Stanford.
 
-My favorite research is exploring earthquake source physics with solid mechanics, numerical simulation, and geophysical inversion techniques. My current interests include earthquake simulation, dynamic fracture mechanics, rock physics, crustal deformation, scientific machine learning, and inverse problems for partial differential equations.
-
-During my undergrad, I developed physics-informed machine learning techniques to estimate the fault frictional properties from geodetic observation data with Prof. Kano and Prof. Ohtani. I am currently working on the development of adjoint methods for dynamic fracture mechanics and earthquake rupture simulation with Prof. Dunham at Stanford.
-
-Contact: rfukushima@stanford.edu
+Contact: rfukushima[at]stanford.edu <br>
+Address: 397 Panama Mall, Mitchell Earth Science, 453A <br>
+&emsp;　&emsp;　Stanford, CA, 94305

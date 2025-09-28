@@ -171,7 +171,7 @@ awards:
       Fellowship for a summer research internship at Caltech
 ---
 
-
+**Welcome!** <br>
 I’m a second-year Ph.D. student in Geophysics at Stanford University. I received my B.S. in Geophysics (2024) from Kyoto University, Japan. My current interests include earthquake simulation, dynamic fracture mechanics, rock physics, crustal deformation, scientific machine learning, and inverse problems for partial differential equations. During my undergrad, I developed physics-informed machine learning techniques to estimate fault frictional properties from geodetic observation data with Prof. Masayuki Kano and Prof. Makiko Ohtani. I am currently working on the development of adjoint methods for dynamic fracture mechanics and earthquake rupture simulation with Prof. Eric Dunham at Stanford.
 
 Contact: rfukushima[at]stanford.edu <br>

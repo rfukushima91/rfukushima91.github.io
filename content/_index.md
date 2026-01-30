@@ -58,6 +58,14 @@ sections:
             <th style="border: none; text-align: left;">  </th>
           </tr>
           <tr>
+            <td style="border: none;">Dec</td>
+            <td style="border: none;">I provided a seminar talk at DPRI, Kyoto Univeristy. The title was "Variational data assimilation for fault friction from geodetic and seismic observations". </td>
+          </tr>
+          <tr>
+            <td style="border: none;">Dec</td>
+            <td style="border: none;">I presented my research on variational rupture dynamics at the 2026 AGU meeting at New Orleans. </td>
+          </tr>
+          <tr>
             <td style="border: none;">Sep</td>
             <td style="border: none;">I presented my research on adjoint-based dynamic rupture inversion with slip-weakening friction at the 2025 SCEC Annual Meeting. </td>
           </tr>

@@ -54,6 +54,14 @@ sections:
         <table style="border-collapse: collapse; width: 100%;">
 
           <tr>
+            <th style="border: none; text-align: left;">2026</th>
+            <th style="border: none; text-align: left;">  </th>
+          </tr>
+          <tr>
+            <td style="border: none;">Apr</td>
+            <td style="border: none;">I have passed the qualifying exam! </td>
+          </tr>
+          <tr>
             <th style="border: none; text-align: left;">2025</th>
             <th style="border: none; text-align: left;">  </th>
           </tr>

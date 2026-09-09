@@ -1,0 +1,26 @@
+<!-- Added by Claude (Claude Code), 2026-09-08: widen the article content column. -->
+<style>
+  /*
+    Widen the single-page article column.
+    Change --article-max-width only; the rules below follow it.
+    Theme defaults: outer wrapper 80rem, main column 72rem, .prose 65ch (~44rem).
+  */
+  :root {
+    --article-max-width: 64rem;
+  }
+
+  /* Outer wrapper, so --article-max-width above 72rem still takes effect */
+  div.max-w-screen-xl:has(> article) {
+    max-width: none;
+  }
+
+  /* Main column (class named explicitly to outrank the theme's .max-w-6xl) */
+  article > main.max-w-6xl {
+    max-width: var(--article-max-width);
+  }
+
+  /* Typography container: drop the 65ch reading-measure cap */
+  article > main > .prose {
+    max-width: none;
+  }
+</style>

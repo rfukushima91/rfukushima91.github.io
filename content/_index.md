@@ -58,6 +58,10 @@ sections:
             <th style="border: none; text-align: left;">  </th>
           </tr>
           <tr>
+            <td style="border: none;">Sep</td>
+            <td style="border: none;">I presented my research on variational rupture dynamics at the 2026 SCEC Annual Meeting. </td>
+          </tr>
+          <tr>
             <td style="border: none;">Apr</td>
             <td style="border: none;">I have passed the qualifying exam! </td>
           </tr>
@@ -71,7 +75,7 @@ sections:
           </tr>
           <tr>
             <td style="border: none;">Dec</td>
-            <td style="border: none;">I presented my research on variational rupture dynamics at the 2026 AGU meeting at New Orleans. </td>
+            <td style="border: none;">I presented my research on variational rupture dynamics at the 2025 AGU meeting at New Orleans. </td>
           </tr>
           <tr>
             <td style="border: none;">Sep</td>

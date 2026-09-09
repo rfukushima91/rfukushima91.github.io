@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/rfukushi/go/pkg/**)",
+      "Read(//Users/rfukushi/Library/Caches/hugo_cache/**)",
+      "Bash(python3 -)",
+      "Bash(hugo --minify)",
+      "Bash(echo \"build exit: $?\")",
+      "Bash(file *.png *.jpg)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
